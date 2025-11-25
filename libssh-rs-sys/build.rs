@@ -179,6 +179,7 @@ fn main() {
         "auth.c",
         "base64.c",
         "bignum.c",
+        "bind.c",
         "bind_config.c",
         "buffer.c",
         "callbacks.c",
